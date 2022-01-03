@@ -1,0 +1,33 @@
+{
+    "name": "John Edward",
+    "age": 32,
+    "gender": "Male",
+    "mobile": "09663679205",
+    "nick": {
+        "nick1": "Ed",
+        "nick2": "janjan"
+    },
+    "address": {
+        "adnumber": "23",
+        "street": "sta. fe",
+        "brgy": 103,
+        "zone": 8,
+        "postal": 1012,
+        "city": "City of Manila",
+        "country": "Philippines",
+        "state": "Metro Manila",
+        "region": "NCR",
+        "province": "NCR",
+        "latitude": 14.5,
+        "longitude": 120.5,
+        "geo": {
+            "lat": 14.5,
+            "lng": 120.5
+        },
+        "geo_address": "14.5, 120.5",
+        "geo_lat": 14.5,
+        "geo_lng": 120.5,
+        "geo_type": "Point",
+        "geo_address_type": "Point"
+    }
+}
